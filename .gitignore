@@ -79,10 +79,7 @@ temp/
 tmp/
 .tmp/
 
-# Dataset files
-datasets/
-data/
-/code/Backend/media/
+
 
 # Custom large files
 code/Backend/users/video_fake/lipforensics_ff.pth 
