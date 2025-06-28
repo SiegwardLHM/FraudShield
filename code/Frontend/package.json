@@ -1,0 +1,36 @@
+{
+  "name": "demo-vue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ctrl/tinycolor": "^4.1.0",
+    "@element-plus/icons-vue": "^2.3.1",
+    "@ffmpeg/core": "^0.12.6",
+    "@ffmpeg/ffmpeg": "^0.12.10",
+    "axios": "^1.7.2",
+    "echarts": "^5.6.0",
+    "element-plus": "^2.7.7",
+    "html2canvas": "^1.4.1",
+    "lamejs": "^1.2.1",
+    "nertc-web-sdk": "^5.6.21",
+    "pinia": "^2.1.7",
+    "recordrtc": "^5.6.2",
+    "vant": "^3.4.3",
+    "vue": "^3.4.29",
+    "vue-drag-resize": "^1.5.4",
+    "vue-router": "^4.3.3",
+    "wav-encoder": "^1.3.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.25.9",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "less": "^4.2.0",
+    "vite": "^5.3.1"
+  }
+}
